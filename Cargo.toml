@@ -1,0 +1,12 @@
+[package]
+name = "dust-mite"
+version = "0.1.0"
+edition = "2021"
+authors = [
+    "Kyle L Frisbie <kyle.l.frisbie@gmail.com>",
+    "Mikel Howarth <mikel@hey.com>",
+    "Joe Previte <jjprevite@gmail.com>"
+]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
